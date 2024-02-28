@@ -38,9 +38,7 @@ def load_example_graph():
 
 def main():
     algorithm_table = {1: "kruskal", 2: "prim"}
-    selected_algorithm = int(
-        input("Enter the algorithm 1 for kruskal and 2 for prim: ")
-    )
+    selected_algorithm = int(input("Enter 1 for kruskal and 2 for prim: "))
 
     if sys.argv[-1] == "example":
         graph = load_example_graph()
