@@ -5,7 +5,7 @@ from manim import *
 class GraphScene(Scene):
     def construct(self):
         # TITLE
-        title = Text(f"{self.algorithm.capitalize()}' Algorithm", font_size=48)
+        title = Text(f"{self.algorithm.capitalize()}'s Algorithm", font_size=48)
         self.play(Write(title))
         self.play(Unwrite(title))
 
