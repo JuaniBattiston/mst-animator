@@ -23,7 +23,7 @@ Follow Manim Community installation guide [here](https://docs.manim.community/en
 
 ## Example
 
-https://github.com/JuaniBattiston/mst-animator/assets/68969090/bd21af46-155d-4dd9-a0a6-6d3ddae7f0c3
+https://github.com/JuaniBattiston/mst-animator/assets/68969090/2932bc94-a3ab-422d-b746-8593a895c491
 
 
 
